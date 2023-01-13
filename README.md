@@ -6,4 +6,11 @@ hypotenus of a right angle triangle: $c = {\sqrt{a^2 + b^2}}$
 $$c = {\sqrt{a^2 + b^2}}$$
 
 <!-- Geometric Series -->
-geometric series: $sum {from i=0 to n {ar^i}}$
+geometric series: $\ \sum_{i=0}^{n} {ar^i}\$
+
+$$\ \sum_{i=0}^{n} {ar^i}\$$
+
+<!-- Arithmetic Series-->
+arithmetic series closed form: $\sum_{i=1}^{n} i = \frac{n(n+1)}{2}$
+
+$$\sum_{i=1}^{n} i = \frac{n(n+1)}{2}$$
